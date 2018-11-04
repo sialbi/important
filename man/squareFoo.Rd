@@ -1,12 +1,12 @@
-\name{square_foo}
-\alias{square_foo}
+\name{squareFoo}
+\alias{squareFoo}
 
-\title{square_foo}
+\title{squareFoo}
 
 \description{Function to calculate the square of a number.}
 
 \usage{
-square_foo(x)
+squareFoo(x)
 }
 
 \arguments{
@@ -18,6 +18,6 @@ square_foo(x)
 \author{Silvan Albin <silvan.albin@hotmail.com>}
 
 \examples{
-square_foo(x)
+squareFoo(x)
 }
 

@@ -1,6 +1,6 @@
 # Square function
 
-square_foo <- function(value){
+squareFoo <- function(value){
   if (is.numeric(value)) {
     square = value * value
     cat("The square of", value, "is equal to", square)}
